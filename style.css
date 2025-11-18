@@ -57,9 +57,23 @@
     }
 
     .btn {
-      width: 100%;
-      padding: 12px;
-      background: #145388;
+      width: 5rem;
+      padding: 12px 12px 12px 12px;
+      background: #2b353e;
+      border: none;
+      border-radius: 10px;
+      color: #fff;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .btn2{
+      margin-left: 0.1rem;
+      width: rem;
+      padding : 12px;
+      background: #2b353e;
       border: none;
       border-radius: 10px;
       color: #fff;
@@ -85,4 +99,8 @@
 
     .links a:hover {
       text-decoration: underline;
- 
+    }
+    .arrow{
+
+      margin-left: 10px;
+    }
